@@ -1,0 +1,6 @@
+random
+cv2
+cvzone
+time
+main
+streamlit
