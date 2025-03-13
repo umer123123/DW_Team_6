@@ -1,6 +1,8 @@
-random
-cv2
-cvzone
-time
-main
 streamlit
+opencv-python
+opencv-contrib-python
+cvzone
+mediapipe
+numpy
+Pillow
+streamlit-webrtc
